@@ -433,7 +433,7 @@ h2:not(.about h2)::after, h2:not(.about h2)::before{
     border-color: #ff305b rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
     position: absolute;
     top: 0;
-    right: 500px;
+    right: 570px;
     z-index: 1;
 }
 
